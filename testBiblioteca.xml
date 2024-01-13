@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <cancion nombre="Cancion1">
+        <artista>Artista1</artista>
+        <album>Album1</album>
+        <imagen>ruta imagen</imagen>
+        <ruta>ruta cancion</ruta>
+    </cancion>
+    <cancion nombre="Cancion2">
+        <artista>Artista1</artista>
+        <album>Album1</album>
+        <imagen>ruta imagen22</imagen>
+        <ruta>ruta cancion22</ruta>
+    </cancion>
+    <cancion nombre="Cancion1">
+        <artista>Artista3</artista>
+        <album>Album3</album>
+        <imagen>ruta imagen33</imagen>
+        <ruta>ruta cancion33</ruta>
+    </cancion>
+</biblioteca>
